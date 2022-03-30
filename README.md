@@ -1,4 +1,5 @@
 # SPA1
+Strukture podataka i algoritmi 1
 1. Problem sortiranja
 2. Asimptotska anaiza i rekurzije
 3. Algoritamska tehnika - podijeli pa vladaj
